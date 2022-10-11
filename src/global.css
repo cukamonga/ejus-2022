@@ -1,0 +1,45 @@
+.container {
+	width: 100vw;
+	height: 100vh;
+	display: block;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	}
+	.box {
+	width: 650px;;
+	height: auto;
+	display:  flex;
+	background: rgba(0, 0, 0, 0.7);
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 5px;
+	padding:  5px;
+	}
+	body {
+	margin: 0px;
+	}
+	.grupo {
+		font-family:  Impact;
+		color:  #fff;
+		font-size:  60pt;
+		text-transform: uppercase;
+	}
+	.equipe {
+		font-family:  Roboto;
+		color:  #fff;
+		font-size:  16pt;
+		text-transform: none;
+	}
+
+table {
+	display:  block;
+	color:  #fff;
+	font-family: Roboto;
+	text-align:  center;
+}
+
+table tr {
+	text-align: center;
+}
